@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShortBurtstID
 - 👀 I’m interested in Game Development and Content Creation
 - 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on Twitch
 - 📫 How to reach me shortburstid@gmail.com
 
 <!---
